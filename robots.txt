@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/sitemap.xml

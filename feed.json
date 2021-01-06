@@ -1,0 +1,141 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Alfonso Ramírez Parte",
+    "description": "",
+    "home_page_url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte",
+    "feed_url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alfonso RP"
+    },
+    "items": [
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/aeronautica/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/aeronautica/",
+            "title": "Aeronautica",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-06T19:44:07+01:00",
+            "date_modified": "2021-01-06T19:46:45+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/presentacion/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/presentacion/",
+            "title": "Presentacion",
+            "summary": "Sobre mi....",
+            "content_html": "<p>Sobre mi....</p>",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:36:00+01:00",
+            "date_modified": "2021-01-06T18:18:21+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/experiencia/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/experiencia/",
+            "title": "Experiencia",
+            "summary": "Mi experiencia...",
+            "content_html": "<p>Mi experiencia...</p>",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:35:45+01:00",
+            "date_modified": "2021-01-06T18:19:22+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/curriculum-vitae/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/curriculum-vitae/",
+            "title": "Curriculum Vitae",
+            "summary": " Curriculum Vitae (ver) ",
+            "content_html": "<p> </p>\n<p> </p>\n<p><strong><a href=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/Alfonso Ramírez Parte CV - au.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Curriculum Vitae </em>(ver)</a></strong></p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:34:58+01:00",
+            "date_modified": "2021-01-06T19:37:40+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion/",
+            "title": "Formacion",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-45-37.jpg\" data-size=\"1280x958\"><img loading=\"lazy\" src=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-45-37-thumbnail.jpg\" alt=\"Formación presencial\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-47-00-2.jpg\" data-size=\"1280x958\"><img loading=\"lazy\" src=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-47-00-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:30:00+01:00",
+            "date_modified": "2021-01-06T19:19:11+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-freeland/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-freeland/",
+            "title": "Formacion Freeland",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:25:00+01:00",
+            "date_modified": "2021-01-06T19:20:26+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-on-line/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-on-line/",
+            "title": "Formacion On Line",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/photo_2021-01-03_20-59-43.jpg\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_20-59-43-xs.jpg 300w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_20-59-43-sm.jpg 480w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_20-59-43-md.jpg 768w\"  alt=\"\" width=\"1280\" height=\"720\"></figure><figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/photo_2021-01-03_21-06-26.jpg\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_21-06-26-xs.jpg 300w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_21-06-26-sm.jpg 480w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_21-06-26-md.jpg 768w\"  alt=\"\" width=\"1280\" height=\"720\"></figure>",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:20:00+01:00",
+            "date_modified": "2021-01-06T19:19:46+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/asistencia-tecnica/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/asistencia-tecnica/",
+            "title": "Asistencia Tecnica",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:04:00+01:00",
+            "date_modified": "2021-01-06T19:14:50+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/tecnico-post-venta/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/tecnico-post-venta/",
+            "title": "Tecnico Post-Venta",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:03:00+01:00",
+            "date_modified": "2021-01-06T19:15:55+01:00"
+        },
+        {
+            "id": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/taller-del-automovil/",
+            "url": "https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/taller-del-automovil/",
+            "title": "Taller del Automovil",
+            "author": {
+                "name": "Alfonso RP"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-04T21:02:00+01:00",
+            "date_modified": "2021-01-06T19:17:05+01:00"
+        }
+    ]
+}

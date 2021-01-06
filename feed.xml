@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Alfonso Ramírez Parte</title>
+    <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/feed.xml" rel="self" />
+    <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte" />
+    <updated>2021-01-06T19:46:45+01:00</updated>
+    <author>
+        <name>Alfonso RP</name>
+    </author>
+    <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte</id>
+
+    <entry>
+        <title>Aeronautica</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/aeronautica/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/aeronautica/</id>
+
+        <updated>2021-01-06T19:46:45+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Presentacion</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/presentacion/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/presentacion/</id>
+
+        <updated>2021-01-06T18:18:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Sobre mi....
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sobre mi....</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Experiencia</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/experiencia/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/experiencia/</id>
+
+        <updated>2021-01-06T18:19:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Mi experiencia...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Mi experiencia...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Curriculum Vitae</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/curriculum-vitae/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/curriculum-vitae/</id>
+
+        <updated>2021-01-06T19:37:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Curriculum Vitae (ver) 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p> </p>
+<p><strong><a href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/Alfonso Ramírez Parte CV - au.pdf" target="_blank" rel="noopener noreferrer"><em>Curriculum Vitae </em>(ver)</a></strong></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Formacion</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion/</id>
+
+        <updated>2021-01-06T19:19:11+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-45-37.jpg" data-size="1280x958"><img loading="lazy" src="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-45-37-thumbnail.jpg" alt="Formación presencial" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-47-00-2.jpg" data-size="1280x958"><img loading="lazy" src="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/7/gallery/photo_2021-01-04_20-47-00-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Formacion Freeland</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-freeland/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-freeland/</id>
+
+        <updated>2021-01-06T19:20:26+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Formacion On Line</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-on-line/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/formacion-on-line/</id>
+
+        <updated>2021-01-06T19:19:46+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/photo_2021-01-03_20-59-43.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_20-59-43-xs.jpg 300w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_20-59-43-sm.jpg 480w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_20-59-43-md.jpg 768w"  alt="" width="1280" height="720"></figure><figure class="post__image post__image--full"><img loading="lazy"  src="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/photo_2021-01-03_21-06-26.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_21-06-26-xs.jpg 300w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_21-06-26-sm.jpg 480w ,https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/media/posts/9/responsive/photo_2021-01-03_21-06-26-md.jpg 768w"  alt="" width="1280" height="720"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Asistencia Tecnica</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/asistencia-tecnica/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/asistencia-tecnica/</id>
+
+        <updated>2021-01-06T19:14:50+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tecnico Post-Venta</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/tecnico-post-venta/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/tecnico-post-venta/</id>
+
+        <updated>2021-01-06T19:15:55+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Taller del Automovil</title>
+        <author>
+            <name>Alfonso RP</name>
+        </author>
+        <link href="https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/taller-del-automovil/"/>
+        <id>https://alfonso-rp.github.io/Alfonso-Ramirez-Parte/taller-del-automovil/</id>
+
+        <updated>2021-01-06T19:17:05+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
